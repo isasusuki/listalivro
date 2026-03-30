@@ -1,0 +1,26 @@
+const precolivro=[{
+    titulo:'javascript',
+    preço:25
+},
+{
+    titulo:'PHP',
+    preço:15
+},
+{
+    titulo:'java',
+    preço:30
+},
+{
+    titulo:'elixir',
+    preço:50
+},
+{
+    titulo:'Go',
+    preço:45
+},
+{
+    titulo:'python',
+    preço:20
+}
+];
+module.exports=precolivro;
